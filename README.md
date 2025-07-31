@@ -26,7 +26,7 @@ Se valida que no se agrege el mismo nombre, que el nombre tenga almenos tres car
     <img src="Amigo_sorteado_aleatoriamente.png" alt="Amigo_sorteado_aleatoriamente" width="400" height="400"/>
   </div>
   <div>
-    <p>Controla la disponibilidad de amigos apra sortear</p>
+    <p>Controla la disponibilidad de amigos para sortear</p>
     <img src="Control_disponibilidad_sorteo.png" alt="Control_disponibilidad_sorteo" width="400" height="400"/>
 </div>
 
